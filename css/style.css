@@ -1,5 +1,29 @@
+/* RESET */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+/* BODY */
+body {
+    font-family: "Fredoka", sans-serif;
+    background-color: white;
+}
+
+/* MAIN */
+.container {
+    margin: 0 auto;
+    width: 80%;
+    margin-top: 2em;
+}
+
+header{
+    color: #e53170;
+    text-align: center;
+} 
+
+.description {
+    text-align: center;
+    margin-top: 2em;
 }
