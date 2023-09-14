@@ -27,3 +27,49 @@ header{
     text-align: center;
     margin-top: 2em;
 }
+
+.team-members{
+    margin-top: 2em;
+}
+.profile-picture{
+    float: left;
+    
+}
+
+h4 {
+    color: white;
+}
+
+.job {
+    display: block;
+    font-size: 0.8rem;
+    margin: 0.3em 0;
+    color: white;
+}
+
+.col {
+    width: calc(100% / 3);
+    float: left;
+    text-align: center;
+    padding: 0 20px;
+    margin-top: 2em;
+}
+
+.mail {
+    font-size: 0.8em;
+    color: #5dbbe6;
+}
+
+.card {
+    background-color: black;
+    text-align: left;
+}
+
+.card img {
+    height: 100px;
+    margin-right: 10px;
+}
+
+.details {
+    padding: 15px 0;
+} 
